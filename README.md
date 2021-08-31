@@ -1,6 +1,4 @@
 # Surface-Tension
-Surface Tension calculations of Deionized water over varying temperatures, salt, and soap solutions
-
 In this experiment the determination of surface tension of water deionised in
 varying temperatures, saline and detergent solutions were carried out. The
 surface tension of deionized water at room temperature was determined to
